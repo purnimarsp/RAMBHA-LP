@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18084428.svg)](https://doi.org/10.5281/zenodo.18084428)
+
 # RAMBHA-LP: Open-Source Processing Toolkit for Chandrayaan-3 Langmuir Probe Data
 
 ## Overview
